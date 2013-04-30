@@ -9,7 +9,7 @@
 
   <groupId>org.prevayler</groupId>
   <artifactId>prevayler</artifactId>
-  <version>2.7-SNAPSHOT</version>
+  <version>2.7-TYRO-SNAPSHOT</version>
   <packaging>pom</packaging>
 
 
@@ -31,7 +31,7 @@
   <licenses>
     <license>
       <name>BSD</name>
-      <url>https://github.com/jsampson/prevayler/blob/master/LICENSE.txt</url>
+      <url>https://github.com/wcurrie/prevayler/blob/master/LICENSE.txt</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -70,12 +70,12 @@
 
   <issueManagement>
     <system>github</system>
-    <url>https://github.com/jsampson/prevayler/issues</url>
+    <url>https://github.com/wcurrie/prevayler/issues</url>
   </issueManagement>
 
   <scm>
-    <connection>scm:git:git://github.com/jsampson/prevayler.git</connection>
-    <developerConnection>scm:git:git@github.com:jsampson/prevayler.git</developerConnection>
+    <connection>scm:git:git://github.com/wcurrie/prevayler.git</connection>
+    <developerConnection>scm:git:git@github.com:wcurrie/prevayler.git</developerConnection>
   </scm>
 
   <developers>
